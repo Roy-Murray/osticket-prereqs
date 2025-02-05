@@ -29,7 +29,7 @@ In Microsoft Azure we will create a VM and create a new resource group called "o
 - Image: Windows 10 pro, version 22h2 -x64 Gen2
 - Size: 2vcpus, 8 gib memory
 <p>
-[<img src="[(https://github.com/user-attachments/assets/6ff86484-1495-4bd0-9a56-c41345ebb7fd)](https://imgur.com/a/XI9pRoU)"](https://imgur.com/a/XI9pRoU)
+[[<img src="[(https://github.com/user-attachments/assets/6ff86484-1495-4bd0-9a56-c41345ebb7fd)](https://imgur.com/a/XI9pRoU)"](https://imgur.com/a/XI9pRoU)](https://imgur.com/a/XI9pRoU)
 
 
 
