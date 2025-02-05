@@ -33,7 +33,7 @@ In Microsoft Azure we will create a VM and create a new resource group called "o
 Check the licensing box and review & create the VM.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+[<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>](https://imgur.com/a/XI9pRoU)
 </p>
 <p>
 
