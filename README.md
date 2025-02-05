@@ -31,9 +31,11 @@ In Microsoft Azure we will create a VM and create a new resource group called "o
 
 
 Check the licensing box and review & create the VM.
+
 <p>
-[<img src="[(https://github.com/user-attachments/assets/6ff86484-1495-4bd0-9a56-c41345ebb7fd)](https://imgur.com/a/XI9pRoU)"](https://imgur.com/a/XI9pRoU)](https://imgur.com/a/XI9pRoU)](https://imgur.com/a/XI9pRoU)
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
 
 />
 </p>
