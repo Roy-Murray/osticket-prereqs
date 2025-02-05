@@ -11,7 +11,7 @@ This tutorial is showcasing a guide to the prerequesites and installing of the o
 - Remote Desktop
 - Internet Information Services (IIS)
 
-h2>Operating Systems Used </h2>
+h2>Operating Systems Used</h2>
 
 - Windows 10</b> (21H2)
 
