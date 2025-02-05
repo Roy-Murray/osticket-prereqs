@@ -37,6 +37,6 @@ Check the licensing box and review & create the VM.
 </p>
 <p>
 
-/>
+
 </p>
 <p>
