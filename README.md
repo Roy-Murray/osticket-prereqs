@@ -30,12 +30,26 @@ In Microsoft Azure we will create a VM and create a new resource group called "o
 - Virtual: Machine Name "osTicket-vm"
 - Image: Windows 10 pro, version 22h2 -x64 Gen2
 - Size: 2vcpus, 8 gib memory
+- Create a username and password for Adminstrator account
 
 
 Check the licensing box and review & create the VM.
 
+- Open up Remote Desktop Connection
+- Enter VM IP Address
+- Log into VM with username and password
+- 
+
 
 ![vm1](https://github.com/user-attachments/assets/d80efa40-8a41-474e-ae53-1382f6425442)
+
+<h2>Install PHP Manager</h2>
+
+
+
+
+
+
 
 
 <h2>Install PHP Manager</h2>
