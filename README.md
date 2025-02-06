@@ -121,7 +121,17 @@ Open up Remote Desktop Connection
 
 <h2>Install osTicket</h2>
 
+- Go to osTicket installation files and extract it
+- Copy the upload folder to the C:\inetpub\wwwroot folder
+- Rename it to osTicket
+- Reload IIS again
+- Go to sites, then defualt web sites, lastly osTicket
+- On the right click Browse .80
 
+
+![image](https://github.com/user-attachments/assets/61b8333d-21db-4217-b158-356f544ba12b)
+
+![image](https://github.com/user-attachments/assets/6109c3e1-694e-4d3b-86b9-0b470ad0adb6)
 
 
 
