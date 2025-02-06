@@ -50,8 +50,12 @@ Open up Remote Desktop Connection
 
 ![image](https://github.com/user-attachments/assets/fd18fcee-b290-4479-8986-7983d3822275)
 
+
+
 - Click on turn windows feauture on
 - Click on IIS then world wide web services and check the box that says CGI
+
+
 
 ![image](https://github.com/user-attachments/assets/9fa8f414-b3de-4427-80b8-b603193035c0)
 
@@ -65,12 +69,20 @@ Open up Remote Desktop Connection
 
   ![image](https://github.com/user-attachments/assets/52184a52-97c4-4959-8b12-c6536d554b32)
 
+
+
 - Click rewrite_amd64 file and install it
+
+
 
 ![image](https://github.com/user-attachments/assets/501119c8-cd2f-4915-a55a-c3dc7a2a3051)
 
+
+
 - Create a folder in windows(C:) file explorer and name it PHP
 - Go back to the php-7.3.8 folder and extract it to the PHP folder that was just created
+
+
 
 ![image](https://github.com/user-attachments/assets/58b9e00b-c6a2-4ae6-956d-4c9202324355)
 
@@ -78,6 +90,30 @@ Open up Remote Desktop Connection
 
 
 <h2>Install C++ Redistrutable</h2>
+
+- Double click The VC_redist file then agree and install
+
+
+![image](https://github.com/user-attachments/assets/3af51d4f-3fd5-4f5b-a77d-c2487734e4a6)
+
+
+
+<h2>Install Install MySQL</h2>
+
+- Click mysql file in the osTicket-installionn files
+- Click Next and accept, then next and typical and install.
+
+![image](https://github.com/user-attachments/assets/f960cb3e-6d22-461e-9911-7517ad4d189d)
+
+- Click standard configuration then next and next again
+
+![image](https://github.com/user-attachments/assets/c639bc5f-40a1-4c9b-92fd-294aebe5441e)
+
+- Enter root password then press next
+- Execute and Finish
+
+<h2>Configure IIS</h2>
+
 
 
 
