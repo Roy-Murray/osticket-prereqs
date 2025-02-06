@@ -38,6 +38,7 @@ Check the licensing box and review & create the VM.
 - Open up Remote Desktop Connection
 - Enter VM IP Address
 - Log into VM with username and password
+- Within the VM Download and unzip the osTicket-Installation-Files.zip onto your desktop
 - 
 
 
