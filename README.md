@@ -20,6 +20,7 @@ This tutorial is showcasing a guide to the prerequesites and installing of the o
 - Microsoft Azure Account
 - Enable IIS
 - Remote Desktop Access
+- Install C++ Redistrutable
 - osTicket installation files
 - HeidiSQL
 
@@ -57,11 +58,6 @@ Open up Remote Desktop Connection
 
 
 
-
-
-
-
-
 <h2>Install PHP Manager</h2>
 
 - Go into osTicket Installation files
@@ -77,5 +73,11 @@ Open up Remote Desktop Connection
 - Go back to the php-7.3.8 folder and extract it to the PHP folder that was just created
 
 ![image](https://github.com/user-attachments/assets/58b9e00b-c6a2-4ae6-956d-4c9202324355)
+
+
+
+
+<h2>Install C++ Redistrutable</h2>
+
 
 
