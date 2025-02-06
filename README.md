@@ -47,13 +47,12 @@ Open up Remote Desktop Connection
 <h2>Enable IIS</h2>
 
 - Open Control panel and click uninstall a progrsam
+- Click on turn windows feauture on
+- Click on IIS then world wide web services and check the box that says CGI
+
 
 ![image](https://github.com/user-attachments/assets/fd18fcee-b290-4479-8986-7983d3822275)
 
-
-
-- Click on turn windows feauture on
-- Click on IIS then world wide web services and check the box that says CGI
 
 
 
@@ -66,21 +65,17 @@ Open up Remote Desktop Connection
 
 - Go into osTicket Installation files
 - Click PHP Manager then press next and agree
-
-  ![image](https://github.com/user-attachments/assets/52184a52-97c4-4959-8b12-c6536d554b32)
-
-
-
 - Click rewrite_amd64 file and install it
+- Create a folder in windows(C:) file explorer and name it PHP
+- Go back to the php-7.3.8 folder and extract it to the PHP folder that was just created
+
+
+ ![image](https://github.com/user-attachments/assets/52184a52-97c4-4959-8b12-c6536d554b32)
 
 
 
 ![image](https://github.com/user-attachments/assets/501119c8-cd2f-4915-a55a-c3dc7a2a3051)
 
-
-
-- Create a folder in windows(C:) file explorer and name it PHP
-- Go back to the php-7.3.8 folder and extract it to the PHP folder that was just created
 
 
 
@@ -113,6 +108,20 @@ Open up Remote Desktop Connection
 - Execute and Finish
 
 <h2>Configure IIS</h2>
+
+- Open IIS as admin
+- Open PHP Manager
+- Register a new PHP version
+- Provide path to php-cgi by opening the PHP folder and click the file
+- Reload IIS byt clicking osTicket-vm and stop it then start.
+
+![image](https://github.com/user-attachments/assets/44990591-c79f-4284-a61c-ba162695ce33)
+
+![image](https://github.com/user-attachments/assets/4fdc6ddb-bbfb-4057-b88b-7c8b331e6e2c)
+
+<h2>Install osTicket</h2>
+
+
 
 
 
