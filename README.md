@@ -133,6 +133,20 @@ Open up Remote Desktop Connection
 
 ![image](https://github.com/user-attachments/assets/6109c3e1-694e-4d3b-86b9-0b470ad0adb6)
 
+![image](https://github.com/user-attachments/assets/5e4d8640-0443-4db7-8622-2cfdcafb338e)
+
+<h2>Enable Extensions</h2>
+
+- Go back to IIS, sites -> Default -> osTicket
+- Double-click PHP Manager
+- Click “Enable or disable an extension”
+- Enable: php_imap.dll
+- Enable: php_intl.dll
+- Enable: php_opcache.dll
+- Refresh the osTicket site in your browser, observe the changes
+  
+![image](https://github.com/user-attachments/assets/3dcbfa4f-4434-44ee-aef3-44c716952c6b)
+
 
 
 
