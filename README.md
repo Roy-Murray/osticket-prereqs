@@ -176,10 +176,21 @@ Open up Remote Desktop Connection
 - Create a new session, root/root by selecting new and user: root and password: root and open
 - Connect to the session
 - Create a database called “osTicket”
+- Go back to osTicket install browser
+- MySQL Database: osTicket
+- MySQL Username: root
+- MySQL Password: root
+- Click “Install Now!”
 
-  ![image](https://github.com/user-attachments/assets/8483673c-0cb6-41d1-a19b-e6226dcecc79)
+
+![image](https://github.com/user-attachments/assets/8483673c-0cb6-41d1-a19b-e6226dcecc79)\
+
+![image](https://github.com/user-attachments/assets/ea7b3588-53f8-4875-bc2e-d519e241c212)
+
+![image](https://github.com/user-attachments/assets/3fbd4eed-0c09-4033-bb53-468088b124f5)
 
 
+Congratulations, the osTicket Has been installed completely
 
 
 
