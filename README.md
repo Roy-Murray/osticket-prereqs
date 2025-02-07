@@ -147,6 +147,26 @@ Open up Remote Desktop Connection
   
 ![image](https://github.com/user-attachments/assets/3dcbfa4f-4434-44ee-aef3-44c716952c6b)
 
+<h2>Rename: ost-config.php</h2>
+
+- From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+- To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+- Assign Permissions: ost-config.php
+- right click ost-config then press properties and click on the security tab
+- Disable inheritance -> Remove All
+- New Permissions -> Everyone -> All
+
+
+![image](https://github.com/user-attachments/assets/51e401d8-78a3-4991-b862-c8fb053e055b)
+
+![image](https://github.com/user-attachments/assets/50eee0ba-da55-42e2-b778-57a11d23b33f)
+
+
+
+
+
+
+
 
 
 
