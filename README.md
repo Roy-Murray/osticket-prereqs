@@ -161,6 +161,27 @@ Open up Remote Desktop Connection
 
 ![image](https://github.com/user-attachments/assets/50eee0ba-da55-42e2-b778-57a11d23b33f)
 
+<h2>Setting up osTicket</h2>
+
+- go to the browser osticket setup site
+- click continue
+- Name Helpdesk
+- Default email (receives email from customers)
+
+![image](https://github.com/user-attachments/assets/4f267630-7b83-4e29-bd55-f6dafb0b21fb)
+
+<h2>Install Heidi</h2>
+
+- Open Heidi SQL from osticket installation folder
+- Create a new session, root/root by selecting new and user: root and password: root and open
+- Connect to the session
+- Create a database called “osTicket”
+
+  ![image](https://github.com/user-attachments/assets/8483673c-0cb6-41d1-a19b-e6226dcecc79)
+
+
+
+
 
 
 
